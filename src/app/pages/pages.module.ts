@@ -10,6 +10,7 @@ import { Grafica1Component } from './grafica1/grafica1.component';
 import { PagesComponent } from './pages.component';
 import { ProgressComponent } from './progress/progress.component';
 import { DonaComponent } from '../components/dona/dona.component';
+import { AcoountSettingsComponent } from './acoount-settings/acoount-settings.component';
 
 @NgModule({
   declarations: [
@@ -17,12 +18,14 @@ import { DonaComponent } from '../components/dona/dona.component';
     ProgressComponent,
     Grafica1Component,
     PagesComponent,
+    AcoountSettingsComponent,
   ],
   exports: [
     DashboardComponent,
     ProgressComponent,
     Grafica1Component,
     PagesComponent,
+    AcoountSettingsComponent
   ],
   imports: [
     CommonModule,
