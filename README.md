@@ -4,7 +4,7 @@
 Proyecto realizado en el curso de Udemy - Angular Avanzado: Lleva tus bases al siguiente nivel
 de @Klerith
 
-## Documentation
+# Documentation
 
 [Url curso](https://www.udemy.com/course/angular-avanzado-fernando-herrera)
 
@@ -20,3 +20,6 @@ de @Klerith
 * Routering
 * Input/output decorator
 * Uso de componente externo
+* LocalStorage
+* Cambiar CSS de forma dinámica - Account settings
+* Services
